@@ -1,0 +1,40 @@
+
+
+body{
+
+    background-color: rgb(113, 218, 241);
+    background-image: url(images/bac4.jpg);
+    background-repeat: no-repeat;
+    
+   
+    
+}
+
+.grid{
+    width: 606px;
+    height: 606px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 
+    
+}
+
+.square{
+    height: 200px;
+    width: 200px;
+    border: solid rgb(197, 49, 49) 1px;
+}
+
+
+.mole{
+    background-image: url(images/mole2.png);
+}
+
+h2{
+    display:inline-block;
+    padding: 12px 5px 0px 20px;
+    margin-left: 20px;
+   
+}
